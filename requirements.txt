@@ -1,0 +1,6 @@
+numpy
+pandas==2.3.1
+Pillow==11.3.0
+plotly==5.22.0
+streamlit==1.48.1
+ultralytics==8.3.178
